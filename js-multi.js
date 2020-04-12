@@ -21,11 +21,22 @@ if(a_to_vh==false)
 {var encryptedUrl=Base64.encode(a_to_vi);
 var x=Math.floor((Math.random()*5)+ 1);
 var xxx=null;
-if(x=="1"){xxx="11/username-dan-password-wifiid-terbaru.html"}
-if(x=="2"){xxx="11/hentikan-penyebaran-virus-dari-flash.html"}
-if(x=="3"){xxx="10/mempercepat-koneksi-modem-yang-lambat.html"}
-if(x=="4"){xxx="10/cara-memperbaiki-ram-yang-rusak.html"}
-if(x=="5"){xxx="10/kumpulan-serial-number-idm-agar-menjadi.html"}a_to_ve[i].href="https://link.jenjangkarir.com/2014/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="1"){xxx="03/who-is-participating-in-forex-market.html"}
+if(x=="2"){xxx="03/the-world-wide-forex-market.html"}
+if(x=="3"){xxx="03/practicing-in-forex-market.html"}
+if(x=="4"){xxx="03/forex-trading-foreign-currency.html"}
+if(x=="5"){xxx="03/forex-trading-where-do-customers-go.html"}
+if(x=="6"){xxx="03/forex-trading-what-hype-is-all-about.html"}
+if(x=="7"){xxx="03/forex-trading-should-you-invest.html"}
+if(x=="8"){xxx="03/forex-markets-trading-internationally.html"}
+if(x=="9"){xxx="03/forex-foreign-exchange-market.html"}
+if(x=="10"){xxx="03/foreign-exchange-market-is-different.html"}
+if(x=="11"){xxx="12/4-indonesian-forex-broker.html"}
+if(x=="12"){xxx="12/understanding-forex-trading.html"}
+if(x=="13"){xxx="12/learn-forex-without-capital-for.html"}
+if(x=="14"){xxx="12/common-forex-terms-or-terminologies.html"}
+if(x=="15"){xxx="12/benefits-and-advantages-of-forex-trading.html"}
+if(x=="16"){xxx="12/5-tips-on-forex-trading-success-for.html"}a_to_ve[i].href="https://tradingforexbeginners.jenjangkarir.com/2020/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
